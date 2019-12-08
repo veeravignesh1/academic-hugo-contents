@@ -1,24 +1,22 @@
 ---
-title: "The Data Scientist Toolbox"
-author: "Veera Vignesh"
-date: '2019-12-06'
-output:
-  pdf_document: default
-  html_document:
-    df_print: paged
+title: The Data Scientist Toolbox
+author: Veera Vignesh
+date: '2019-12-07'
+slug: the-data-scientist-toolbox
+categories:
+  - R
+tags:
+  - Coursera
+subtitle: '1 of 10'
+summary: 'Course Notes of Data Science Specialization - John Hopkins'
+authors: []
+lastmod: '2019-12-08T10:57:10+05:30'
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-lastmod: '2019-12-07T08:04:14+05:30'
-categories: R
 projects: []
-slug: the-data-scientist-toolbox
-subtitle: Data Science Specialization - John Hopkins
-summary: ''
-tags: Coursera
-authors: []
 ---
 # Week 1
 
