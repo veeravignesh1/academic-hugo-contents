@@ -299,7 +299,7 @@ Create a new Rmd file in R-studio using `File -> New File -> RMarkdown`
 
 - Created `.md` file is then passed into `pandoc` which then process to create the file in the desired format.
 
-  ![Rmarkdown Flow](D:\Git Documents\Hugo-Contents\content\courses\RMarkdownFlow.png)
+  ![Rmarkdown Flow](RMarkdownFlow.png)
 
 ## Types of Data science questions
 

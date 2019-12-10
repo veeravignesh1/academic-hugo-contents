@@ -1,0 +1,33 @@
+---
+title: R programming
+author: Veera Vignesh
+date: '2019-12-08'
+slug: r-programming
+categories:
+  - R
+tags:
+  - Coursera
+subtitle: '2 of 10'
+summary: 'Course Notes of Data Science Specialization - John Hopkins'
+authors: []
+lastmod: '2019-12-08T11:35:37+05:30'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+```{r}
+summary(mtcars)
+```
+
+## Normal Markdown File
+
+How this is rendering
+
+
+
+What will happen if am editing it with Typora
+
+## Will this work or Break	
