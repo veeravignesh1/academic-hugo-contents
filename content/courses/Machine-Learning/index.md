@@ -61,7 +61,7 @@ Allowing the machine to identify the patterns in the given data. There is no lab
 4. Social Network analysis
 5. Market segmentation
 6. Astronomical data analysis
-7. [Cocktail Party algorithm]() -[ Extracting voice from musical mixtures](https://arxiv.org/abs/1504.04658)
+7. [Cocktail Party algorithm](https://en.wikipedia.org/wiki/Cocktail_party_effect) -[ Extracting voice from musical mixtures](https://arxiv.org/abs/1504.04658)
 
 
 
