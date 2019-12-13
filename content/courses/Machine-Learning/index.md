@@ -63,6 +63,16 @@ Allowing the machine to identify the patterns in the given data. There is no lab
 6. Astronomical data analysis
 7. [Cocktail Party algorithm](https://en.wikipedia.org/wiki/Cocktail_party_effect) -[ Extracting voice from musical mixtures](https://arxiv.org/abs/1504.04658)
 
+## Model and Cost Function
+
+### Model Representation
+
+
+
+$$\H_{\theta} = \theta_0 + \theta_1x$$ 
+
+
+
 
 
 
