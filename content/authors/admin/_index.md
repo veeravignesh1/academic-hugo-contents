@@ -22,7 +22,7 @@ name: Veera Vignesh
 organizations:
 - name: Praxis Business School
   url: ""
-role: Student of Data Science
+role: Praxis Business School
 social:
 - icon: linkedin
   icon_pack: fab
