@@ -29,9 +29,9 @@ subtitle = ""
     name = "EDA"
     tag = "EDA"
   
-  # [[content.filter_button]]
-  #   name = "Python"
-  #   tag = "python"
+  [[content.filter_button]]
+    name = "Machine Learning"
+    tag = "ML"
   #   
   # [[content.filter_button]]
   #   name = "R"
