@@ -20,9 +20,9 @@ interests:
 - Machine Learning
 name: Veera Vignesh
 organizations:
-- name: Praxis Business School
+- name: Ardent Learner
   url: ""
-role: Praxis Business School
+role: 
 social:
 - icon: linkedin
   icon_pack: fab
@@ -39,4 +39,4 @@ user_groups:
 - Visitors
 ---
 
-Currently pursuing Data Science from Praxis Business School, Bangalore. Interested in Machine Learning & Natural Language Processing.
+Post Graduate in Data Science , Post Graduate in Mechanical Design Engineering. Interested in Machine Learning & Natural Language Processing.

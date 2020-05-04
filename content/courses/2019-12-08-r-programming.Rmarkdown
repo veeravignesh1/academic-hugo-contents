@@ -17,17 +17,9 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+draft: true
 ---
 ```{r}
 summary(mtcars)
 ```
 
-## Normal Markdown File
-
-How this is rendering
-
-
-
-What will happen if am editing it with Typora
-
-## Will this work or Break	

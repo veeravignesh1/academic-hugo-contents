@@ -18,6 +18,7 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+draft: true
 ---
 
 **Main aim of this course is to understand,implement & interpret Machine Learning algorithms**

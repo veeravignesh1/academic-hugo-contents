@@ -17,6 +17,7 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+draft: true
 ---
 
 ```r
@@ -47,12 +48,3 @@ summary(mtcars)
 ##  Max.   :1.0000   Max.   :5.000   Max.   :8.000
 ```
 
-## Normal Markdown File
-
-How this is rendering
-
-
-
-What will happen if am editing it with Typora
-
-## Will this work or Break	

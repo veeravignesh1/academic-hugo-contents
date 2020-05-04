@@ -40,4 +40,37 @@ date_format = "Jan 2006"
   date_end = "2019-11-06"
   description = ""
 
+[[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Introduction to Shell"
+  url = "https://learn.datacamp.com/courses/introduction-to-shell"
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/cba6acfd8803b385088b41f3fa903d1be47f9667"
+  
+  date_start = "2020-04-30"
+  date_end = "2020-04-30"
+  description = ""
+
+[[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Introduction to Bash Scripting"
+  url = "https://learn.datacamp.com/courses/introduction-to-bash-scripting"
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/1e33c7df9be153ced048e3eaaf2808b9205a073a"
+  
+  date_start = "2020-05-01"
+  date_end = "2020-05-01"
+  description = ""
+
+[[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Data Processing in Shell"
+  url = "https://learn.datacamp.com/courses/data-processing-in-shell"
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/fcdfe475d2e88e7e5a443dfe2b5c575a65219048"
+  
+  date_start = "2020-05-02"
+  date_end = "2020-05-02"
+  description = ""
+
 +++
