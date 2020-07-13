@@ -26,12 +26,31 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "EDA"
-    tag = "EDA"
+    name = "ML"
+    tag = "ML"
   
   [[content.filter_button]]
-    name = "Machine Learning"
-    tag = "ML"
+    name = "DL"
+    tag = "DL"
+  
+  [[content.filter_button]]
+    name = "NLP"
+    tag = "NLP"
+  
+  [[content.filter_button]]
+    name = "Deployment"
+    tag = "DEPLOY"
+
+  [[content.filter_button]]
+    name = "EDA"
+    tag = "EDA"
+
+  [[content.filter_button]]
+    name = "Data Visualization"
+    tag = "VIZ"
+
+  
+
   #   
   # [[content.filter_button]]
   #   name = "R"
