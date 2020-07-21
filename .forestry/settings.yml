@@ -5,10 +5,40 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: content/post
+  label: Post
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/project
+  label: Project
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/courses
+  label: Courses
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/resources
+  label: Resources
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/learning
+  label: Learning
+  create: all
+  match: "**/*"
+- type: directory
   path: content
   label: Pages
   create: all
   match: "*"
+- type: directory
+  path: content/home
+  label: Home
+  create: all
+  match: "**/*"
 - type: directory
   path: content/talk
   label: Talk
@@ -20,38 +50,8 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/resources
-  label: Resources
-  create: all
-  match: "**/*"
-- type: directory
   path: content/publication
   label: Publication
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/project
-  label: Project
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/post
-  label: Post
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/learning
-  label: Learning
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/home
-  label: Home
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/courses
-  label: Courses
   create: all
   match: "**/*"
 - type: directory
